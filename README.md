@@ -5,3 +5,9 @@ This is 100 days of competitive coding challenege . You have details of all the 
 #Day 1
 Password:- https://www.codechef.com/problems/PASSWD
 Distinct pair Sums:-https://www.codechef.com/problems/MANYSUMS
+
+
+
+#Day 2
+
+Body Mass Index->https://www.codechef.com/problems/BMI
