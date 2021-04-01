@@ -51,4 +51,4 @@ int main() {
         
  }
 
-
+//Time Complexity-> constant .
