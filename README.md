@@ -3,6 +3,7 @@ This is 100 days of competitive coding challenege . You have details of all the 
 
 
 #Day 1
+
 Password:- https://www.codechef.com/problems/PASSWD
 
 
@@ -22,3 +23,8 @@ World Record -> https://www.codechef.com/APRIL21C/problems/BOLT
 
 
 Valid Pair -> https://www.codechef.com/APRIL21C/problems/SOCKS1
+
+
+#Day 3
+
+Strong Language -> https://www.codechef.com/APRIL21C/problems/SSCRIPT
