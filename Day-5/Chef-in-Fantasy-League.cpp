@@ -46,7 +46,9 @@ no
 Explanation
 Example case 1: If Chef buys the 1-st and 3-rd player, the total price of his team is 90+9=99, which is perfectly fine. There is no other valid way to pick two players.
 
-Example case 2: Chef cannot buy two players in such a way that all conditions are satisfied.*/
+Example case 2: Chef cannot buy two players in such a way that all conditions are satisfied.
+
+Approach-> Find the minimum cost of defender and forward and check wheather itis less than equal to 100 after adding s to it*/
 
 
 #include <bits/stdc++.h>
@@ -108,3 +110,5 @@ int main() {
 	}
 	return 0;
 }
+
+//Time Complexity->O(n)
