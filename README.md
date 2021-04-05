@@ -28,3 +28,8 @@ Valid Pair -> https://www.codechef.com/APRIL21C/problems/SOCKS1
 #Day 3
 
 Strong Language -> https://www.codechef.com/APRIL21C/problems/SSCRIPT
+
+
+#Day 4
+
+Chef and Dice -> https://www.codechef.com/APRIL21C/problems/SDICE
