@@ -49,3 +49,5 @@ Pair Me-> https://www.codechef.com/problems/SUMPOS
 #Day 7
 
 Even Sum-> https://www.codechef.com/problems/EVENGAME
+
+Even Diffrence-> https://www.codechef.com/problems/EVENDIFF
