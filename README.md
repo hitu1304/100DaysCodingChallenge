@@ -39,3 +39,13 @@ Chef and Dice -> https://www.codechef.com/APRIL21C/problems/SDICE
 Chef and IPC Certificates-> https://www.codechef.com/problems/IPCCERT
 
 Chef in Fantasy League-> https://www.codechef.com/problems/FFL
+
+
+#Day 6
+
+Pair Me-> https://www.codechef.com/problems/SUMPOS
+
+
+#Day 7
+
+Even Sum-> https://www.codechef.com/problems/EVENGAME
