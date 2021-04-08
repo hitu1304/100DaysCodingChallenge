@@ -51,3 +51,7 @@ Pair Me-> https://www.codechef.com/problems/SUMPOS
 Even Sum-> https://www.codechef.com/problems/EVENGAME
 
 Even Diffrence-> https://www.codechef.com/problems/EVENDIFF
+
+#Day 8
+
+Ashishgup and Interviews-> https://www.codechef.com/problems/INTRVS
