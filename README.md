@@ -25,14 +25,17 @@ World Record -> https://www.codechef.com/APRIL21C/problems/BOLT
 Valid Pair -> https://www.codechef.com/APRIL21C/problems/SOCKS1
 
 
+
 #Day 3
 
 Strong Language -> https://www.codechef.com/APRIL21C/problems/SSCRIPT
 
 
+
 #Day 4
 
 Chef and Dice -> https://www.codechef.com/APRIL21C/problems/SDICE
+
 
 #Day 5
 
@@ -41,17 +44,20 @@ Chef and IPC Certificates-> https://www.codechef.com/problems/IPCCERT
 Chef in Fantasy League-> https://www.codechef.com/problems/FFL
 
 
+
 #Day 6
 
 Pair Me-> https://www.codechef.com/problems/SUMPOS
 
 
-#Day 7
+#
+Day 7
 
 Even Sum-> https://www.codechef.com/problems/EVENGAME
 
 Even Diffrence-> https://www.codechef.com/problems/EVENDIFF
 
+
 #Day 8
 
-Ashishgup and Interviews-> https://www.codechef.com/problems/INTRVS
+Ashishgup and Interviews -> https://www.codechef.com/problems/INTRVS
