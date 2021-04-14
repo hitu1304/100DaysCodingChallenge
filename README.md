@@ -66,3 +66,9 @@ Ashishgup and Interviews -> https://www.codechef.com/problems/INTRVS
 #Day-9
 
 Sed-Sequences-> https://www.codechef.com/LTIME91B/problems/SEDARR
+
+
+#Day 10
+
+
+Chef and Machine-> https://www.codechef.com/problems/CMACHINE
