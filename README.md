@@ -72,3 +72,9 @@ Sed-Sequences-> https://www.codechef.com/LTIME91B/problems/SEDARR
 
 
 Chef and Machine-> https://www.codechef.com/problems/CMACHINE
+
+
+#Day 11
+
+
+Binary Array Sorting-> https://practice.geeksforgeeks.org/problems/binary-array-sorting5355/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&difficulty[]=-1&difficulty[]=0&page=1&query=category[]ArraysproblemStatusunsolveddifficulty[]-1difficulty[]0page1category[]Arrays#
