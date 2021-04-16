@@ -83,3 +83,8 @@ Binary Array Sorting-> https://practice.geeksforgeeks.org/problems/binary-array-
 #Day 12
 
 Permutations in array->https://practice.geeksforgeeks.org/problems/permutations-in-array1747/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&difficulty[]=-1&difficulty[]=0&page=1&query=category[]ArraysproblemStatusunsolveddifficulty[]-1difficulty[]0page1category[]Arrays#
+
+
+#Day 13
+
+Predict the Column-> https://practice.geeksforgeeks.org/problems/predict-the-column/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&difficulty[]=-1&difficulty[]=0&page=1&query=category[]ArraysproblemStatusunsolveddifficulty[]-1difficulty[]0page1category[]Arrays#
