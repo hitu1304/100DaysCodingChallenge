@@ -88,3 +88,7 @@ Permutations in array->https://practice.geeksforgeeks.org/problems/permutations-
 #Day 13
 
 Predict the Column-> https://practice.geeksforgeeks.org/problems/predict-the-column/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&difficulty[]=-1&difficulty[]=0&page=1&query=category[]ArraysproblemStatusunsolveddifficulty[]-1difficulty[]0page1category[]Arrays#
+
+#Day 14
+
+Maximum product of two numbers-> https://practice.geeksforgeeks.org/problems/maximum-product-of-two-numbers2730/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&difficulty[]=-1&difficulty[]=0&page=2&query=category[]ArraysproblemStatusunsolveddifficulty[]-1difficulty[]0page2category[]Arrays#
