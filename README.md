@@ -96,3 +96,7 @@ Maximum product of two numbers-> https://practice.geeksforgeeks.org/problems/max
 #Day 15
 
 Find duplicates in an array-> https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1/?company[]=Amazon&company[]=Amazon&problemType=functional&difficulty[]=0&page=1&sortBy=submissions&query=company[]AmazonproblemTypefunctionaldifficulty[]0page1sortBysubmissionscompany[]Amazon#
+
+#Day-16
+
+Binary Search-> https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&page=1&sortBy=submissions&query=category[]ArraysproblemStatusunsolvedpage1sortBysubmissionscategory[]Arrays
