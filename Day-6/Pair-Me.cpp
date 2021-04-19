@@ -1,5 +1,5 @@
-/*plateform-> Codechef(div-2 rated)
-    contest name-> AprilChallenge2020
+/*plateform-> Codechef(div-3 unrated)
+    contest name-> 
     language used->cpp.
     
     Problem Statement->
