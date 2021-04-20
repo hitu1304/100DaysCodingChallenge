@@ -112,4 +112,8 @@ Chocolate Monger-> https://www.codechef.com/COOK128C/problems/CM164364
 
 #Day 19
 
-Red OR Green->https://practice.geeksforgeeks.org/problems/red-or-green5711/1
+Red OR Green-> https://practice.geeksforgeeks.org/problems/red-or-green5711/1
+
+#Day 20
+
+Change the string-> https://practice.geeksforgeeks.org/problems/change-the-string3541/1
