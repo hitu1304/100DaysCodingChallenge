@@ -109,3 +109,7 @@ Passing Marks-> https://www.codechef.com/COOK128C/problems/PSGRADE/
 #Day 18
 
 Chocolate Monger-> https://www.codechef.com/COOK128C/problems/CM164364
+
+#Day 19
+
+Red OR Green->https://practice.geeksforgeeks.org/problems/red-or-green5711/1
