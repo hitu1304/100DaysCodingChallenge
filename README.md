@@ -99,7 +99,7 @@ Find duplicates in an array-> https://practice.geeksforgeeks.org/problems/find-d
 
 #Day 16
 
-Binary Search-> https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&page=1&sortBy=submissions&query=category[]ArraysproblemStatusunsolvedpage1sortBysubmissionscategory[]Arrays
+Binary Search-> https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1
 
 #Day 17
 
