@@ -121,3 +121,7 @@ Change the string-> https://practice.geeksforgeeks.org/problems/change-the-strin
 #Day 21
 
 Minimum difference pair-> https://practice.geeksforgeeks.org/problems/minimum-difference-pair5444/1
+
+#Day 22
+
+Delete without head pointer-> https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1
