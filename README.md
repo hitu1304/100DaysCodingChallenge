@@ -117,3 +117,7 @@ Red OR Green-> https://practice.geeksforgeeks.org/problems/red-or-green5711/1
 #Day 20
 
 Change the string-> https://practice.geeksforgeeks.org/problems/change-the-string3541/1
+
+#Day 21
+
+Minimum difference pair-> https://practice.geeksforgeeks.org/problems/minimum-difference-pair5444/1
