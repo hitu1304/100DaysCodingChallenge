@@ -125,3 +125,7 @@ Minimum difference pair-> https://practice.geeksforgeeks.org/problems/minimum-di
 #Day 22
 
 Delete without head pointer-> https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1
+
+#Day 23
+
+Floor in a Sorted Array -> https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1
