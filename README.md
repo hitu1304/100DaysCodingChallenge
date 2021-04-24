@@ -133,3 +133,5 @@ Floor in a Sorted Array -> https://practice.geeksforgeeks.org/problems/floor-in-
 Sort in specific order-> https://practice.geeksforgeeks.org/problems/sort-in-specific-order2422/1
 
 Remove duplicate element from sorted Linked List-> https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1
+
+Print Linked List elements-> https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1
