@@ -135,3 +135,7 @@ Sort in specific order-> https://practice.geeksforgeeks.org/problems/sort-in-spe
 Remove duplicate element from sorted Linked List-> https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1
 
 Print Linked List elements-> https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1
+
+#Day 24
+
+Merge two sorted linked lists-> https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1
