@@ -141,3 +141,9 @@ Print Linked List elements-> https://practice.geeksforgeeks.org/problems/print-l
 Merge two sorted linked lists-> https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1
 
 Merge 2 sorted linked list in reverse order-> https://practice.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1
+
+#Day 25
+
+Chef On Island-> https://www.codechef.com/START3C/problems/CCISLAND/
+
+Hiring Test -> https://www.codechef.com/START3C/problems/HIRETEST
