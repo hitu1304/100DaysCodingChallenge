@@ -147,3 +147,7 @@ Merge 2 sorted linked list in reverse order-> https://practice.geeksforgeeks.org
 Chef On Island-> https://www.codechef.com/START3C/problems/CCISLAND/
 
 Hiring Test -> https://www.codechef.com/START3C/problems/HIRETEST
+
+#Day 26
+
+Thief and Police -> https://www.codechef.com/problems/TANDP
