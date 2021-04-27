@@ -153,3 +153,7 @@ Hiring Test -> https://www.codechef.com/START3C/problems/HIRETEST
 Thief and Police -> https://www.codechef.com/problems/TANDP
 
 Check If Circular Linked List-> https://practice.geeksforgeeks.org/problems/circular-linked-list/1
+
+#Day 27
+
+Find the Sum of Last N nodes of the Linked List-> https://practice.geeksforgeeks.org/problems/find-the-sum-of-last-n-nodes-of-the-linked-list/1
