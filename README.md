@@ -157,3 +157,5 @@ Check If Circular Linked List-> https://practice.geeksforgeeks.org/problems/circ
 #Day 27
 
 Find the Sum of Last N nodes of the Linked List-> https://practice.geeksforgeeks.org/problems/find-the-sum-of-last-n-nodes-of-the-linked-list/1
+
+Deletion and Reverse in Linked List-> https://practice.geeksforgeeks.org/problems/deletion-and-reverse-in-linked-list/1
