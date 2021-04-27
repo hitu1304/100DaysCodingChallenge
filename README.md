@@ -161,3 +161,5 @@ Find the Sum of Last N nodes of the Linked List-> https://practice.geeksforgeeks
 Deletion and Reverse in Linked List-> https://practice.geeksforgeeks.org/problems/deletion-and-reverse-in-linked-list/1
 
 Find n/k th node in Linked list-> https://practice.geeksforgeeks.org/problems/find-nk-th-node-in-linked-list/1
+
+Insert in Middle of Linked List-> https://practice.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1
