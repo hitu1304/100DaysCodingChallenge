@@ -165,3 +165,7 @@ Find n/k th node in Linked list-> https://practice.geeksforgeeks.org/problems/fi
 Insert in Middle of Linked List-> https://practice.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1
 
 Detect Loop in linked list -> https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1
+
+#Day 28
+
+Reverse a Doubly Linked List-> https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1
