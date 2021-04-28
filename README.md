@@ -175,3 +175,5 @@ Delete node in Doubly Linked List-> https://practice.geeksforgeeks.org/problems/
 Nth node from end of linked list-> https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1
 
 Node at a given index in linked list-> https://practice.geeksforgeeks.org/problems/node-at-a-given-index-in-linked-list/1
+
+Delete a Node in Single Linked List -> https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1
