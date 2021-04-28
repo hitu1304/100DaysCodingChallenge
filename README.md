@@ -173,3 +173,5 @@ Reverse a Doubly Linked List-> https://practice.geeksforgeeks.org/problems/rever
 Delete node in Doubly Linked List-> https://practice.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1
 
 Nth node from end of linked list-> https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1
+
+Node at a given index in linked list-> https://practice.geeksforgeeks.org/problems/node-at-a-given-index-in-linked-list/1
