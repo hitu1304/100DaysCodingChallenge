@@ -199,4 +199,11 @@ Insertion Sort-> https://practice.geeksforgeeks.org/problems/insertion-sort/1
 Merge Without Extra Space-> https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1
 
 Distinct absolute array elements-> https://practice.geeksforgeeks.org/problems/distinct-absolute-array-elements4529/1
+
 Merging two unsorted arrays in sorted order-> https://practice.geeksforgeeks.org/problems/merging-two-unsorted-arrays-in-sorted-order1020/1
+
+Coldplay-> https://www.codechef.com/LTIME95C/problems/SLOOP
+
+Equinox Strings-> https://www.codechef.com/LTIME95C/problems/EQUINOX
+
+Chef in Heaven-> https://www.codechef.com/LTIME95C/problems/CCHEAVEN/
