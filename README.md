@@ -197,3 +197,5 @@ Intersection of two arrays-> https://practice.geeksforgeeks.org/problems/interse
 Insertion Sort-> https://practice.geeksforgeeks.org/problems/insertion-sort/1
 
 Merge Without Extra Space-> https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1
+
+Distinct absolute array elements-> https://practice.geeksforgeeks.org/problems/distinct-absolute-array-elements4529/1
