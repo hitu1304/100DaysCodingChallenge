@@ -185,3 +185,7 @@ Delete Middle of Linked List-> https://practice.geeksforgeeks.org/problems/delet
 Selection Sort-> https://practice.geeksforgeeks.org/problems/selection-sort/1
 
 Bubble Sort-> https://practice.geeksforgeeks.org/problems/bubble-sort/1
+
+#Day 30
+
+Quick Sort-> https://practice.geeksforgeeks.org/problems/quick-sort/1
