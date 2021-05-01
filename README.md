@@ -211,3 +211,5 @@ Chef in Heaven-> https://www.codechef.com/LTIME95C/problems/CCHEAVEN/
 #Day 31
 
 Array Rotation ->  https://www.codechef.com/problems/ARRROT
+
+Preorder Traversal -> https://practice.geeksforgeeks.org/problems/preorder-traversal/1
