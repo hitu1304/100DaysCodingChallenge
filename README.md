@@ -217,3 +217,5 @@ Preorder Traversal -> https://practice.geeksforgeeks.org/problems/preorder-trave
 #Day 32
 
 Inorder Traversal-> https://practice.geeksforgeeks.org/problems/inorder-traversal/1
+
+Postorder Traversal-> https://practice.geeksforgeeks.org/problems/postorder-traversal/1
