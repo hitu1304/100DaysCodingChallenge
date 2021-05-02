@@ -221,3 +221,5 @@ Inorder Traversal-> https://practice.geeksforgeeks.org/problems/inorder-traversa
 Postorder Traversal-> https://practice.geeksforgeeks.org/problems/postorder-traversal/1
 
 Sum of Binary Tree-> https://practice.geeksforgeeks.org/problems/sum-of-binary-tree/1
+
+Third largest element-> https://practice.geeksforgeeks.org/problems/third-largest-element/1/?track=amazon-arrays&batchId=192#
