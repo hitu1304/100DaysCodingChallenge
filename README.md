@@ -219,3 +219,5 @@ Preorder Traversal -> https://practice.geeksforgeeks.org/problems/preorder-trave
 Inorder Traversal-> https://practice.geeksforgeeks.org/problems/inorder-traversal/1
 
 Postorder Traversal-> https://practice.geeksforgeeks.org/problems/postorder-traversal/1
+
+Sum of Binary Tree-> https://practice.geeksforgeeks.org/problems/sum-of-binary-tree/1
