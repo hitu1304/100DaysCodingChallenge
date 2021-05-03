@@ -229,3 +229,5 @@ Max and Second Max-> https://practice.geeksforgeeks.org/problems/max-and-second-
 #Day 33
 
 Remove duplicates in small prime array -> https://practice.geeksforgeeks.org/problems/remove-duplicates-in-small-prime-array/1/?track=amazon-arrays&batchId=192#
+
+Delete Alternate Nodes-> https://practice.geeksforgeeks.org/problems/delete-alternate-nodes/1
