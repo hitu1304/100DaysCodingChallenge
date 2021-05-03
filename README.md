@@ -237,3 +237,5 @@ Count Leaves->  in Binary Tree-> https://practice.geeksforgeeks.org/problems/cou
 Count Non-Leaf Nodes in Tree -> https://practice.geeksforgeeks.org/problems/count-non-leaf-nodes-in-tree/1
 
 Max and min element in Binary Tree-> https://practice.geeksforgeeks.org/problems/max-and-min-element-in-binary-tree/1
+
+Rotate doubly Linked List-> https://practice.geeksforgeeks.org/problems/rotate-doubly-linked-list-by-p-nodes/1
