@@ -233,3 +233,5 @@ Remove duplicates in small prime array -> https://practice.geeksforgeeks.org/pro
 Delete Alternate Nodes-> https://practice.geeksforgeeks.org/problems/delete-alternate-nodes/1
 
 Count Leaves in Binary Tree-> https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1
+
+Count Non-Leaf Nodes in Tree -> https://practice.geeksforgeeks.org/problems/count-non-leaf-nodes-in-tree/1
