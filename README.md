@@ -243,3 +243,5 @@ Rotate doubly Linked List-> https://practice.geeksforgeeks.org/problems/rotate-d
 #Day 34
 
 Find length of Loop-> https://practice.geeksforgeeks.org/problems/find-length-of-loop/1
+
+Rotate a Linked List-> https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1
