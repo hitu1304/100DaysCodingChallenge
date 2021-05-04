@@ -245,3 +245,5 @@ Rotate doubly Linked List-> https://practice.geeksforgeeks.org/problems/rotate-d
 Find length of Loop-> https://practice.geeksforgeeks.org/problems/find-length-of-loop/1
 
 Rotate a Linked List-> https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1
+
+Square root of a number-> https://practice.geeksforgeeks.org/problems/square-root/1/?track=amazon-searching&batchId=192#
