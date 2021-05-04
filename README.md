@@ -249,3 +249,6 @@ Rotate a Linked List-> https://practice.geeksforgeeks.org/problems/rotate-a-link
 Square root of a number-> https://practice.geeksforgeeks.org/problems/square-root/1/?track=amazon-searching&batchId=192#
 
 Majority Element-> https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1/?track=amazon-searching&batchId=192
+
+Peak element-> https://practice.geeksforgeeks.org/problems/peak-element/1/?track=amazon-searching&batchId=192#
+s
