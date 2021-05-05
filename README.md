@@ -256,3 +256,5 @@ s
 #Day 35
 
 Add 1 to a number represented as linked list-> https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1
+
+Search a node in BST-> https://practice.geeksforgeeks.org/problems/search-a-node-in-bst/1
