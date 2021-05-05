@@ -252,3 +252,7 @@ Majority Element-> https://practice.geeksforgeeks.org/problems/majority-element-
 
 Peak element-> https://practice.geeksforgeeks.org/problems/peak-element/1/?track=amazon-searching&batchId=192#
 s
+
+#Day 35
+
+Add 1 to a number represented as linked list-> https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1
