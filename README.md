@@ -270,3 +270,5 @@ Print BST elements in given range-> https://practice.geeksforgeeks.org/problems/
 Find the Closest Element in BST-> https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1
 
 Count BST nodes that lie in a given range-> https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1
+
+Kth largest element in BST-> https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1
