@@ -272,3 +272,5 @@ Find the Closest Element in BST-> https://practice.geeksforgeeks.org/problems/fi
 Count BST nodes that lie in a given range-> https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1
 
 Kth largest element in BST-> https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1
+
+Median of BST-> https://practice.geeksforgeeks.org/problems/median-of-bst/1
