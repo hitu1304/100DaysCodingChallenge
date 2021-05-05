@@ -262,3 +262,7 @@ Search a node in BST-> https://practice.geeksforgeeks.org/problems/search-a-node
 Minimum element in BST-> https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1
 
 Sum of leaf nodes in BST -> https://practice.geeksforgeeks.org/problems/sum-of-leaf-nodes-in-bst/1
+
+k-th smallest element in BST-> https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1
+
+Print BST elements in given range-> https://practice.geeksforgeeks.org/problems/print-bst-elements-in-given-range/1
