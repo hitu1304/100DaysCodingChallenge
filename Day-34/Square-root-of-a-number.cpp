@@ -48,4 +48,4 @@ long long int floorSqrt(long long int x)
         
     }
 
-//Time Complexity: O(N).
+//Time Complexity: O(logN).
