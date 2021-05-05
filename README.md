@@ -260,3 +260,5 @@ Add 1 to a number represented as linked list-> https://practice.geeksforgeeks.or
 Search a node in BST-> https://practice.geeksforgeeks.org/problems/search-a-node-in-bst/1
 
 Minimum element in BST-> https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1
+
+Sum of leaf nodes in BST -> https://practice.geeksforgeeks.org/problems/sum-of-leaf-nodes-in-bst/1
