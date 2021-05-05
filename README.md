@@ -266,3 +266,7 @@ Sum of leaf nodes in BST -> https://practice.geeksforgeeks.org/problems/sum-of-l
 k-th smallest element in BST-> https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1
 
 Print BST elements in given range-> https://practice.geeksforgeeks.org/problems/print-bst-elements-in-given-range/1
+
+Find the Closest Element in BST-> https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1
+
+Count BST nodes that lie in a given range-> https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1
