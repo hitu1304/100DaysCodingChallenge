@@ -1,7 +1,5 @@
 /*plateform-> GeeksForGeeks (practice Easy)
 
-Topic -> Linked list.
-
 language used->cpp.
     
 Problem Statement->
