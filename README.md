@@ -288,3 +288,7 @@ Insert a node in a BST-> https://practice.geeksforgeeks.org/problems/insert-a-no
 Check for BST-> https://practice.geeksforgeeks.org/problems/check-for-bst/1
 
 Inorder Successor in BST-> https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1
+
+Closet 0s 1s and 2s-> https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s-1587115621/1/?track=amazon-sorting&batchId=192#
+
+Height of Binary Tree-> https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1/?track=amazon-trees&batchId=192#
