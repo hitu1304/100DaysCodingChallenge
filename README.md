@@ -284,3 +284,5 @@ Median of BST-> https://practice.geeksforgeeks.org/problems/median-of-bst/1
 #Day 36
 
 Insert a node in a BST-> https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1
+
+Check for BST-> https://practice.geeksforgeeks.org/problems/check-for-bst/1
