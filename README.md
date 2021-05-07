@@ -299,3 +299,5 @@ Height of Binary Tree-> https://practice.geeksforgeeks.org/problems/height-of-bi
 Size of Binary Tree -> https://practice.geeksforgeeks.org/problems/size-of-binary-tree/1
 
 Sum of Leaf Nodes-> https://practice.geeksforgeeks.org/problems/sum-of-leaf-nodes/1
+
+XOR of a given range-> https://practice.geeksforgeeks.org/problems/xor-of-a-given-range/1
