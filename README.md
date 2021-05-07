@@ -297,3 +297,5 @@ Height of Binary Tree-> https://practice.geeksforgeeks.org/problems/height-of-bi
 #Day 37
 
 Size of Binary Tree -> https://practice.geeksforgeeks.org/problems/size-of-binary-tree/1
+
+Sum of Leaf Nodes-> https://practice.geeksforgeeks.org/problems/sum-of-leaf-nodes/1
