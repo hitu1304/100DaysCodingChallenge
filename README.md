@@ -301,3 +301,5 @@ Size of Binary Tree -> https://practice.geeksforgeeks.org/problems/size-of-binar
 Sum of Leaf Nodes-> https://practice.geeksforgeeks.org/problems/sum-of-leaf-nodes/1
 
 XOR of a given range-> https://practice.geeksforgeeks.org/problems/xor-of-a-given-range/1
+
+Determine if Two Trees are Identical-> https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1
