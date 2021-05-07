@@ -304,4 +304,10 @@ XOR of a given range-> https://practice.geeksforgeeks.org/problems/xor-of-a-give
 
 Determine if Two Trees are Identical-> https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1
 
- Full binary tree-> https://practice.geeksforgeeks.org/problems/full-binary-tree/1/?track=amazon-trees&batchId=192#
+Solubility-> https://www.codechef.com/MAY21C/problems/SOLBLTY
+
+Golf-> https://www.codechef.com/MAY21C/problems/LKDNGOLF
+  
+ 
+
+
