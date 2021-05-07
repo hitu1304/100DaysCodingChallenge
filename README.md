@@ -292,3 +292,8 @@ Inorder Successor in BST-> https://practice.geeksforgeeks.org/problems/inorder-s
 Closet 0s 1s and 2s-> https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s-1587115621/1/?track=amazon-sorting&batchId=192#
 
 Height of Binary Tree-> https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1/?track=amazon-trees&batchId=192#
+
+#
+#Day 37
+
+Size of Binary Tree -> https://practice.geeksforgeeks.org/problems/size-of-binary-tree/1
