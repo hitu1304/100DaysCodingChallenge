@@ -329,3 +329,6 @@ Merge two BST 's-> https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1
 Find Common Nodes in two BSTs-> https://practice.geeksforgeeks.org/problems/print-common-nodes-in-bst/1
 
 Sum of k smallest elements in BST-> https://practice.geeksforgeeks.org/problems/sum-of-k-smallest-elements-in-bst3029/1
+
+Inorder Traversal and BST -> https://practice.geeksforgeeks.org/problems/inorder-traversal-and-bst5855/1
+
