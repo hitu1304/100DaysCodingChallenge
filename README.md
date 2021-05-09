@@ -317,6 +317,8 @@ Mirror Tree-> https://practice.geeksforgeeks.org/problems/mirror-tree/1
 #Day 39
 
 Two Mirror Trees-> https://practice.geeksforgeeks.org/problems/two-mirror-trees/1/
+
+Preorder to Postorder -> https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1
  
 
 
