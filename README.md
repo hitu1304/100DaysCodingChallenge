@@ -323,3 +323,5 @@ Preorder to Postorder -> https://practice.geeksforgeeks.org/problems/preorder-to
 Lowest Common Ancestor in a BST-> https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1
 
 Binary Tree to BST-> https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1/
+
+Merge two BST 's-> https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1
