@@ -321,3 +321,5 @@ Two Mirror Trees-> https://practice.geeksforgeeks.org/problems/two-mirror-trees/
 Preorder to Postorder -> https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1
 
 Lowest Common Ancestor in a BST-> https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1
+
+Binary Tree to BST-> https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1/
