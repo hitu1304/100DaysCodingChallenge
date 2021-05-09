@@ -325,3 +325,5 @@ Lowest Common Ancestor in a BST-> https://practice.geeksforgeeks.org/problems/lo
 Binary Tree to BST-> https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1/
 
 Merge two BST 's-> https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1
+
+Find Common Nodes in two BSTs-> https://practice.geeksforgeeks.org/problems/print-common-nodes-in-bst/1
