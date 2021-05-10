@@ -332,3 +332,7 @@ Sum of k smallest elements in BST-> https://practice.geeksforgeeks.org/problems/
 
 Inorder Traversal and BST -> https://practice.geeksforgeeks.org/problems/inorder-traversal-and-bst5855/1
 
+#
+#Day-40
+
+Level order traversal-> https://practice.geeksforgeeks.org/problems/level-order-traversal/1
