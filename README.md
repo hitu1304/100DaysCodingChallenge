@@ -340,4 +340,20 @@ Level order traversal-> https://practice.geeksforgeeks.org/problems/level-order-
 #
 #Day 41
 
-Minimum Absolute Diffrence-> https://practice.geeksforgeeks.org/contest/mock-4-round-1/problems/
+Minimum Absolute Diffrence-> https://practice.geeksforgeeks.org/contest/mock-4-round-1
+
+Geek and his Marks-> https://practice.geeksforgeeks.org/problems/geek-and-his-marks-1611824243/0
+
+Remove Duplicates-> https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1
+
+Closing bracket index-> https://practice.geeksforgeeks.org/problems/closing-bracket-index5900/1
+
+Pair Sum in Vector->  https://practice.geeksforgeeks.org/problems/pair-sum-in-vector/1
+
+Pattern searching-> https://practice.geeksforgeeks.org/problems/pattern-searching5231/1
+
+Minimum indexed character-> https://practice.geeksforgeeks.org/problems/minimum-indexed-character0221/1
+
+Find the Highest number-> https://practice.geeksforgeeks.org/problems/find-the-highest-number2259/1
+
+Common Subsequence OldP-> https://practice.geeksforgeeks.org/problems/common-subsequence-oldp3752/1
