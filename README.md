@@ -336,3 +336,8 @@ Inorder Traversal and BST -> https://practice.geeksforgeeks.org/problems/inorder
 #Day-40
 
 Level order traversal-> https://practice.geeksforgeeks.org/problems/level-order-traversal/1
+
+#
+#Day 41
+
+Minimum Absolute Diffrence-> https://practice.geeksforgeeks.org/contest/mock-4-round-1/problems/
