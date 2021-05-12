@@ -374,3 +374,5 @@ Top K Frequent Elements in Array-> https://practice.geeksforgeeks.org/problems/t
 Fitting The Array-> https://practice.geeksforgeeks.org/problems/fitting-the-array1514/1
 
 Ishaan and Sticks-> https://practice.geeksforgeeks.org/problems/ishaan-and-sticks0542/1
+
+Leaders in an array-> https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1
