@@ -362,3 +362,15 @@ Common Subsequence OldP-> https://practice.geeksforgeeks.org/problems/common-sub
 #Day 42
 
 Merge Sort -> https://practice.geeksforgeeks.org/problems/merge-sort/1
+
+Bitonic Generator Sort-> https://practice.geeksforgeeks.org/problems/bitonic-generator-sort3343/1
+
+Intersection of two sorted Linked lists-> https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1
+
+K larger values-> https://practice.geeksforgeeks.org/problems/k-larger-values/0
+
+Top K Frequent Elements in Array-> https://practice.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1
+
+Fitting The Array-> https://practice.geeksforgeeks.org/problems/fitting-the-array1514/1
+
+Ishaan and Sticks-> https://practice.geeksforgeeks.org/problems/ishaan-and-sticks0542/1
