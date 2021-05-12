@@ -376,3 +376,5 @@ Fitting The Array-> https://practice.geeksforgeeks.org/problems/fitting-the-arra
 Ishaan and Sticks-> https://practice.geeksforgeeks.org/problems/ishaan-and-sticks0542/1
 
 Leaders in an array-> https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1
+
+Intersection Point in Y Shapped Linked Lists-> https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1
