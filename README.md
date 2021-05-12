@@ -357,3 +357,8 @@ Minimum indexed character-> https://practice.geeksforgeeks.org/problems/minimum-
 Find the Highest number-> https://practice.geeksforgeeks.org/problems/find-the-highest-number2259/1
 
 Common Subsequence OldP-> https://practice.geeksforgeeks.org/problems/common-subsequence-oldp3752/1
+
+#
+#Day 42
+
+Merge Sort -> https://practice.geeksforgeeks.org/problems/merge-sort/1
