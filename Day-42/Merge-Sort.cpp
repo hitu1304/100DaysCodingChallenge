@@ -1,6 +1,6 @@
 //Approach ->Merge sort algorithm
 
- public:
+ 
     void merge(int arr[], int l, int m, int r)
     {
         int i = l;
@@ -24,8 +24,7 @@
         arr[i] = B[i];
     }
     }
-    public:
-    void mergeSort(int arr[], int l, int r)
+   void mergeSort(int arr[], int l, int r)
     {
        if(l<r)
        {
