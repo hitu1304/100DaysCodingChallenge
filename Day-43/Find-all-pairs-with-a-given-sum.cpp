@@ -25,4 +25,4 @@ vector<pair<int,int>> allPairs(int A[], int B[], int N, int M, int X)
            }
        }return v;
     
-    
+//Time Complexity: O(N)    
