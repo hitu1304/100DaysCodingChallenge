@@ -378,3 +378,8 @@ Ishaan and Sticks-> https://practice.geeksforgeeks.org/problems/ishaan-and-stick
 Leaders in an array-> https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1
 
 Intersection Point in Y Shapped Linked Lists-> https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1
+
+#
+#Day 43
+
+Stones on the Table-> https://codeforces.com/group/WDvrNDsmqx/contest/328133/problem/A
