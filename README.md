@@ -389,3 +389,5 @@ Equilibrium index of an array-> https://practice.geeksforgeeks.org/problems/equi
 Key Pair-> https://practice.geeksforgeeks.org/problems/key-pair5616/1
 
 Find all pairs with a given sum-> https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1
+
+Single Number-> https://practice.geeksforgeeks.org/problems/single-number1014/1
