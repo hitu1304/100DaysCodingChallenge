@@ -383,3 +383,9 @@ Intersection Point in Y Shapped Linked Lists-> https://practice.geeksforgeeks.or
 #Day 43
 
 Stones on the Table-> https://codeforces.com/group/WDvrNDsmqx/contest/328133/problem/A
+
+Equilibrium index of an array-> https://practice.geeksforgeeks.org/problems/equilibrium-index-of-an-array/1
+
+Key Pair-> https://practice.geeksforgeeks.org/problems/key-pair5616/1
+
+Find all pairs with a given sum-> https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1
