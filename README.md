@@ -404,3 +404,5 @@ Find a pair with given target in BST-> https://practice.geeksforgeeks.org/proble
 Smallest Positive missing number-> https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1
 
 Equal Sum-> https://practice.geeksforgeeks.org/problems/equal-sum0810/1
+
+Count only Repeated-> https://practice.geeksforgeeks.org/problems/count-only-repeated2047/1#
