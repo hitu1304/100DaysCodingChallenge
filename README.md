@@ -398,3 +398,9 @@ Single Number-> https://practice.geeksforgeeks.org/problems/single-number1014/1
 Right View of Binary Tree-> https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1#
 
 Left View of Binary Tree-> https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1
+
+Find a pair with given target in BST-> https://practice.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1
+
+Smallest Positive missing number-> https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1
+
+Equal Sum-> https://practice.geeksforgeeks.org/problems/equal-sum0810/1
