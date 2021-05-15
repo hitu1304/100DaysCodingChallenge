@@ -425,3 +425,5 @@ Reverse Spiral Form of Matrix-> https://practice.geeksforgeeks.org/problems/reve
 Triplet Sum in Array-> https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1
 
 Searching an element in a sorted array (Ternary Search) -> https://practice.geeksforgeeks.org/problems/3d27d4683c121c1f152ee8f41279255dc4430cf6/1
+
+Anagram-> https://practice.geeksforgeeks.org/problems/anagram-1587115620/1
