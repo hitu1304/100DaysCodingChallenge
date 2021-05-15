@@ -419,3 +419,5 @@ Search in a row-column sorted Matrix-> https://practice.geeksforgeeks.org/proble
 Find nth element of spiral matrix-> https://practice.geeksforgeeks.org/problems/find-nth-element-of-spiral-matrix/1
 
 Subarray with given sum-> https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1
+
+Reverse Spiral Form of Matrix-> https://practice.geeksforgeeks.org/problems/reverse-spiral-form-of-matrix4033/1
