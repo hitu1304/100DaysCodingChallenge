@@ -429,3 +429,5 @@ Searching an element in a sorted array (Ternary Search) -> https://practice.geek
 Anagram-> https://practice.geeksforgeeks.org/problems/anagram-1587115620/1
 
 Palindrome String-> https://practice.geeksforgeeks.org/problems/palindrome-string0817/1
+
+Pangram Checking-> https://practice.geeksforgeeks.org/problems/pangram-checking-1587115620/1
