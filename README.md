@@ -421,3 +421,5 @@ Find nth element of spiral matrix-> https://practice.geeksforgeeks.org/problems/
 Subarray with given sum-> https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1
 
 Reverse Spiral Form of Matrix-> https://practice.geeksforgeeks.org/problems/reverse-spiral-form-of-matrix4033/1
+
+Triplet Sum in Array-> https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1
