@@ -406,3 +406,8 @@ Smallest Positive missing number-> https://practice.geeksforgeeks.org/problems/s
 Equal Sum-> https://practice.geeksforgeeks.org/problems/equal-sum0810/1
 
 Count only Repeated-> https://practice.geeksforgeeks.org/problems/count-only-repeated2047/1#
+
+#
+#Day 45
+
+Spirally traversing a matrix-> https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1
