@@ -1,4 +1,4 @@
-/* Approach-> Withe the help of hash tab;e first traverse through the first string for every element decrement the index of hash table now traverse the second string and for every element increament the index of hash table now check wheather all the elements of hash are zero or not*/
+/* Approach-> Withe the help of hash table(size of 26) first traverse through the first string for every element decrement the index of hash table now traverse the second string and for every element increament the index of hash table now check wheather all the elements of hash are zero or not*/
 
 bool isAnagram(string a, string b){
         
