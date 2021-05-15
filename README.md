@@ -415,3 +415,7 @@ Spirally traversing a matrix-> https://practice.geeksforgeeks.org/problems/spira
 linked list of strings forms a palindrome-> https://practice.geeksforgeeks.org/problems/linked-list-of-strings-forms-a-palindrome/1
 
 Search in a row-column sorted Matrix-> https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1
+
+Find nth element of spiral matrix-> https://practice.geeksforgeeks.org/problems/find-nth-element-of-spiral-matrix/1
+
+Subarray with given sum-> https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1
