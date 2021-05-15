@@ -411,3 +411,7 @@ Count only Repeated-> https://practice.geeksforgeeks.org/problems/count-only-rep
 #Day 45
 
 Spirally traversing a matrix-> https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1
+
+linked list of strings forms a palindrome-> https://practice.geeksforgeeks.org/problems/linked-list-of-strings-forms-a-palindrome/1
+
+Search in a row-column sorted Matrix-> https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1
