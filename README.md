@@ -423,3 +423,5 @@ Subarray with given sum-> https://practice.geeksforgeeks.org/problems/subarray-w
 Reverse Spiral Form of Matrix-> https://practice.geeksforgeeks.org/problems/reverse-spiral-form-of-matrix4033/1
 
 Triplet Sum in Array-> https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1
+
+Searching an element in a sorted array (Ternary Search) -> https://practice.geeksforgeeks.org/problems/3d27d4683c121c1f152ee8f41279255dc4430cf6/1
