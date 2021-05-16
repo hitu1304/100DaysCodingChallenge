@@ -432,4 +432,10 @@ Palindrome String-> https://practice.geeksforgeeks.org/problems/palindrome-strin
 
 Pangram Checking-> https://practice.geeksforgeeks.org/problems/pangram-checking-1587115620/1
 
+# 
+#Day 46
+
 Counting elements in two arrays-> https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1
+
+Minimum Number in a sorted rotated array-> https://practice.geeksforgeeks.org/problems/minimum-number-in-a-sorted-rotated-array-1587115620/1
+
