@@ -431,3 +431,5 @@ Anagram-> https://practice.geeksforgeeks.org/problems/anagram-1587115620/1
 Palindrome String-> https://practice.geeksforgeeks.org/problems/palindrome-string0817/1
 
 Pangram Checking-> https://practice.geeksforgeeks.org/problems/pangram-checking-1587115620/1
+
+Counting elements in two arrays-> https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1
