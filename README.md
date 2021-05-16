@@ -439,3 +439,6 @@ Counting elements in two arrays-> https://practice.geeksforgeeks.org/problems/co
 
 Minimum Number in a sorted rotated array-> https://practice.geeksforgeeks.org/problems/minimum-number-in-a-sorted-rotated-array-1587115620/1
 
+Rearrange a string-> https://practice.geeksforgeeks.org/problems/rearrange-a-string4100/1
+
+Divisible by 7-> https://practice.geeksforgeeks.org/problems/divisible-by-73224/1
