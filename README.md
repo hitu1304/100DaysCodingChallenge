@@ -442,3 +442,7 @@ Minimum Number in a sorted rotated array-> https://practice.geeksforgeeks.org/pr
 Rearrange a string-> https://practice.geeksforgeeks.org/problems/rearrange-a-string4100/1
 
 Divisible by 7-> https://practice.geeksforgeeks.org/problems/divisible-by-73224/1
+
+Check if actual binary representation of a number-> https://practice.geeksforgeeks.org/problems/check-if-actual-binary-representation-of-a-number-is-palindrome0624/1
+
+Check if actual binary representation of a number is palindrome-> g/problems/check-if-actual-binary-representation-of-a-number-is-palindrome0624/1
