@@ -446,3 +446,8 @@ Divisible by 7-> https://practice.geeksforgeeks.org/problems/divisible-by-73224/
 Check if actual binary representation of a number-> https://practice.geeksforgeeks.org/problems/check-if-actual-binary-representation-of-a-number-is-palindrome0624/1
 
 Winner of an election-> https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1
+
+#
+#Day-47
+
+Height of Heap-> https://practice.geeksforgeeks.org/problems/height-of-heap5025/1
