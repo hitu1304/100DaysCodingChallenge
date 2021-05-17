@@ -451,3 +451,17 @@ Winner of an election-> https://practice.geeksforgeeks.org/problems/winner-of-an
 #Day-47
 
 Height of Heap-> https://practice.geeksforgeeks.org/problems/height-of-heap5025/1
+
+Twice Counter-> https://practice.geeksforgeeks.org/problems/twice-counter4236/1
+
+Sorting Elements of an Array by Frequency-> https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency-1587115621/1
+
+Check if array contains contiguous integers with duplicates allowed-> https://practice.geeksforgeeks.org/problems/check-if-array-contains-contiguous-integers-with-duplicates-allowed2046/1
+
+Implement Atoi-> https://practice.geeksforgeeks.org/problems/implement-atoi/1
+
+Missing number in array-> https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1
+
+Two Repeated Elements-> https://practice.geeksforgeeks.org/problems/two-repeated-elements-1587115621/1
+
+Remove all duplicates from a given string-> https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1
