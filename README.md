@@ -465,3 +465,14 @@ Missing number in array-> https://practice.geeksforgeeks.org/problems/missing-nu
 Two Repeated Elements-> https://practice.geeksforgeeks.org/problems/two-repeated-elements-1587115621/1
 
 Remove all duplicates from a given string-> https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1
+
+#
+#Day 48
+
+Brothers From Different Roots-> https://practice.geeksforgeeks.org/problems/brothers-from-different-root/1
+
+K distance from root-> https://practice.geeksforgeeks.org/problems/k-distance-from-root/1
+
+Diagonal Traversal of Binary Tree-> https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1
+
+Level order traversal in spiral form-> https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1
