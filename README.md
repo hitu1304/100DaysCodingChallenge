@@ -485,3 +485,5 @@ Move all negative elements to end-> https://practice.geeksforgeeks.org/problems/
 Cumulative frequency of count of each element in an unsorted array-> https://practice.geeksforgeeks.org/problems/frequency-of-each-element-in-an-unsorted-array0759/1
 
 Rearrange an array such that arr[i] = i-> https://practice.geeksforgeeks.org/problems/rearrange-an-array-such-that-arri-i3618/1
+
+Last seen array element-> https://practice.geeksforgeeks.org/problems/last-seen-array-element1501/1
