@@ -483,3 +483,5 @@ Level order traversal in spiral form-> https://practice.geeksforgeeks.org/proble
 Move all negative elements to end-> https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1
 
 Cumulative frequency of count of each element in an unsorted array-> https://practice.geeksforgeeks.org/problems/frequency-of-each-element-in-an-unsorted-array0759/1
+
+Rearrange an array such that arr[i] = i-> https://practice.geeksforgeeks.org/problems/rearrange-an-array-such-that-arri-i3618/1
