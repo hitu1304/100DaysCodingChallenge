@@ -476,3 +476,8 @@ K distance from root-> https://practice.geeksforgeeks.org/problems/k-distance-fr
 Diagonal Traversal of Binary Tree-> https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1
 
 Level order traversal in spiral form-> https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1
+
+#
+#Day 49
+
+Move all negative elements to end-> https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/
