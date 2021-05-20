@@ -487,3 +487,18 @@ Cumulative frequency of count of each element in an unsorted array-> https://pra
 Rearrange an array such that arr[i] = i-> https://practice.geeksforgeeks.org/problems/rearrange-an-array-such-that-arri-i3618/1
 
 Last seen array element-> https://practice.geeksforgeeks.org/problems/last-seen-array-element1501/1
+
+#
+#Day 50
+
+Reverse First K elements of Queue-> https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1
+
+Queue Reversal-> https://practice.geeksforgeeks.org/problems/queue-reversal/1
+
+Valid Expression-> https://practice.geeksforgeeks.org/problems/valid-expression1025/1
+
+Pair Sum Existence-> https://practice.geeksforgeeks.org/problems/pair-sum-existence/1
+
+First Repeating Element-> https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1
+
+Second most repeated string in a sequence-> https://practice.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence0534/1
