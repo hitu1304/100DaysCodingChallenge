@@ -502,3 +502,5 @@ Pair Sum Existence-> https://practice.geeksforgeeks.org/problems/pair-sum-existe
 First Repeating Element-> https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1
 
 Second most repeated string in a sequence-> https://practice.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence0534/1
+
+Minimum indexed character-> https://practice.geeksforgeeks.org/problems/minimum-indexed-character-1587115620/1
