@@ -504,3 +504,23 @@ First Repeating Element-> https://practice.geeksforgeeks.org/problems/first-repe
 Second most repeated string in a sequence-> https://practice.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence0534/1
 
 Minimum indexed character-> https://practice.geeksforgeeks.org/problems/minimum-indexed-character-1587115620/1
+
+#
+#Day 51
+
+Roof Top-> https://practice.geeksforgeeks.org/problems/roof-top-1587115621/1
+
+Remove b and ac from a given string-> https://practice.geeksforgeeks.org/problems/remove-b-and-ac-from-a-given-string4336/1
+
+Reverse words in a given string-> https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1
+
+Subarray with 0 sum-> https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1
+
+Non Repeating Character-> https://practice.geeksforgeeks.org/problems/non-repeating-character-1587115620/1
+
+Ordering of strings-> https://practice.geeksforgeeks.org/problems/ordering-of-strings5527/1
+
+Special array reversal-> https://practice.geeksforgeeks.org/problems/special-array-reversal2328/1
+
+Unusual String Sort-> https://practice.geeksforgeeks.org/problems/unusual-string-sort0405/1
+
