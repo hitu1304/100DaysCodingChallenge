@@ -524,3 +524,4 @@ Special array reversal-> https://practice.geeksforgeeks.org/problems/special-arr
 
 Unusual String Sort-> https://practice.geeksforgeeks.org/problems/unusual-string-sort0405/1
 
+Remove duplicates from an unsorted linked list-> https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1
