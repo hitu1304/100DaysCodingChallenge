@@ -525,3 +525,20 @@ Special array reversal-> https://practice.geeksforgeeks.org/problems/special-arr
 Unusual String Sort-> https://practice.geeksforgeeks.org/problems/unusual-string-sort0405/1
 
 Remove duplicates from an unsorted linked list-> https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1
+
+#
+#Day 52
+
+Binary Tree to CDLL-> https://practice.geeksforgeeks.org/problems/binary-tree-to-cdll/1
+
+Binary Tree to DLL-> https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1
+
+Leaves to DLL-> https://practice.geeksforgeeks.org/problems/leaves-to-dll/1
+
+Remove every k'th node-> https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1
+
+Insert in Sorted way in a Sorted DLL-> https://practice.geeksforgeeks.org/problems/insert-in-sorted-way-in-a-sorted-dll/1
+
+Sorted insert for circular linked list-> https://practice.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1
+
+Intersection of Two Linked Lists-> https://practice.geeksforgeeks.org/problems/intersection-of-two-linked-list/1
