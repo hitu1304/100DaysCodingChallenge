@@ -547,3 +547,12 @@ Intersection of Two Linked Lists-> https://practice.geeksforgeeks.org/problems/i
 #Day 53
 
 Merge Sort for Linked List-> https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1
+
+#
+#Day 54
+
+Construct Tree from Inorder & Preorder-> https://practice.geeksforgeeks.org/problems/construct-tree-1/1
+
+Reverse Level Order Traversal -> https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1
+
+Diameter of Binary Tree-> https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1
