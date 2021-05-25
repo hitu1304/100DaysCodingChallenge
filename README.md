@@ -563,3 +563,11 @@ Top View of Binary Tree-> https://practice.geeksforgeeks.org/problems/top-view-o
 #Day 55
 
 ZigZag Tree Traversal -> https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1
+
+Boundary Traversal of binary tree-> https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1
+
+Level of a Node in Binary Tree-> https://practice.geeksforgeeks.org/problems/level-of-a-node-in-binary-tree/1
+
+Sum of Left Leaf Nodes-> https://practice.geeksforgeeks.org/problems/sum-of-left-leaf-nodes/1
+
+Sum of Right Leaf Nodes-> https://practice.geeksforgeeks.org/problems/sum-of-right-leaf-nodes/1
