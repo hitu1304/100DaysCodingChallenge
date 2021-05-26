@@ -571,3 +571,12 @@ Level of a Node in Binary Tree-> https://practice.geeksforgeeks.org/problems/lev
 Sum of Left Leaf Nodes-> https://practice.geeksforgeeks.org/problems/sum-of-left-leaf-nodes/1
 
 Sum of Right Leaf Nodes-> https://practice.geeksforgeeks.org/problems/sum-of-right-leaf-nodes/1
+
+#
+#Day 56
+
+Transform to Sum Tree-> https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1
+
+Tilt of Binary Tree-> https://practice.geeksforgeeks.org/problems/tilt-of-binary-tree/1
+
+Sum Tree-> https://practice.geeksforgeeks.org/problems/sum-tree/1
