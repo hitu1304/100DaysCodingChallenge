@@ -580,3 +580,14 @@ Transform to Sum Tree-> https://practice.geeksforgeeks.org/problems/transform-to
 Tilt of Binary Tree-> https://practice.geeksforgeeks.org/problems/tilt-of-binary-tree/1
 
 Sum Tree-> https://practice.geeksforgeeks.org/problems/sum-tree/1
+
+#
+#Day 57
+
+Level order traversal Line by Line-> https://practice.geeksforgeeks.org/problems/level-order-traversal-line-by-line/1
+
+Reverse array in groups-> https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1
+
+Check if string is rotated by two places-> https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1
+
+GetLine and Ignore->https://practice.geeksforgeeks.org/problems/getline-and-ignore/1
