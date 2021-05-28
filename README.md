@@ -591,3 +591,8 @@ Reverse array in groups-> https://practice.geeksforgeeks.org/problems/reverse-ar
 Check if string is rotated by two places-> https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1
 
 GetLine and Ignore->https://practice.geeksforgeeks.org/problems/getline-and-ignore/1
+
+# 
+#Day 58
+
+Rotate by 90 degree-> https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1
