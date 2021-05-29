@@ -596,3 +596,10 @@ GetLine and Ignore->https://practice.geeksforgeeks.org/problems/getline-and-igno
 #Day 58
 
 Rotate by 90 degree-> https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1
+
+#
+#Day 59
+
+BFS of graph-> https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
+
+DFS of Graph-> https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1
