@@ -603,3 +603,8 @@ Rotate by 90 degree-> https://practice.geeksforgeeks.org/problems/rotate-by-90-d
 BFS of graph-> https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
 
 DFS of Graph-> https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1
+
+# 
+#Day 60
+
+Cheating Time-> https://www.codechef.com/submit/CTIME
