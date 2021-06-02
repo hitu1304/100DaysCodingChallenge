@@ -626,3 +626,10 @@ Tom And Jerry 1-> https://www.codechef.com/LTIME96C/problems/TANDJ1
 Detect cycle in a directed graph-> https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
 
 Bipartite Graph-> https://practice.geeksforgeeks.org/problems/bipartite-graph/1s
+
+#
+#Day 63
+
+Find missing in second array-> https://practice.geeksforgeeks.org/problems/in-first-but-second5423/1
+
+Find Missing And Repeating-> https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1
