@@ -640,3 +640,13 @@ Find Missing And Repeating-> https://practice.geeksforgeeks.org/problems/find-mi
 Kth largest element in a stream-> https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1#
 
 Sort by Absolute Difference-> https://practice.geeksforgeeks.org/problems/sort-by-absolute-difference-1587115621/1
+
+#
+#Day 65
+
+Sort an array according to the other-> 
+
+#
+#Day 66
+
+Topological sort-> https://practice.geeksforgeeks.org/problems/topological-sort/1
