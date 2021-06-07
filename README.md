@@ -644,7 +644,7 @@ Sort by Absolute Difference-> https://practice.geeksforgeeks.org/problems/sort-b
 #
 #Day 65
 
-Sort an array according to the other-> 
+Sort an array according to the other-> https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0
 
 #
 #Day 66
