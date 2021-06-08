@@ -81,24 +81,22 @@ Binary Array Sorting-> https://practice.geeksforgeeks.org/problems/binary-array-
 #
 #Day 12
 
-Permutations in array->https://practice.geeksforgeeks.org/problems/permutations-in-array1747/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&difficulty[]=-1&difficulty[]=0&page=1&query=category[]ArraysproblemStatusunsolveddifficulty[]-1difficulty[]0page1category[]Arrays#
+Permutations in array->https://practice.geeksforgeeks.org/problems/permutations-in-array1747/1
 
 #
 
 #Day 13
 
-Predict the Column-> https://practice.geeksforgeeks.org/problems/predict-the-column/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&difficulty[]=-1&difficulty[]=0&page=1&query=category[]ArraysproblemStatusunsolveddifficulty[]-1difficulty[]0page1category[]Arrays#
-
+Predict the Column-> https://practice.geeksforgeeks.org/problems/predict-the-column/1
 #
 #Day 14
 
-Maximum product of two numbers-> https://practice.geeksforgeeks.org/problems/maximum-product-of-two-numbers2730/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&difficulty[]=-1&difficulty[]=0&page=2&query=category[]ArraysproblemStatusunsolveddifficulty[]-1difficulty[]0page2category[]Arrays#
-
+Maximum product of two numbers-> https://practice.geeksforgeeks.org/problems/maximum-product-of-two-numbers2730/1
 
 #
 #Day 15
 
-Find duplicates in an array-> https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1/?company[]=Amazon&company[]=Amazon&problemType=functional&difficulty[]=0&page=1&sortBy=submissions&query=company[]AmazonproblemTypefunctionaldifficulty[]0page1sortBysubmissionscompany[]Amazon#
+Find duplicates in an array-> https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1
 
 #
 #Day 16
