@@ -648,3 +648,8 @@ Sort an array according to the other-> https://practice.geeksforgeeks.org/proble
 #Day 66
 
 Topological sort-> https://practice.geeksforgeeks.org/problems/topological-sort/1
+
+#
+#Day 67
+
+0 - 1 Knapsack Problem-> https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
