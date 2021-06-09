@@ -653,3 +653,5 @@ Topological sort-> https://practice.geeksforgeeks.org/problems/topological-sort/
 #Day 67
 
 0 - 1 Knapsack Problem-> https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
+
+Geek-onacci Number-> https://practice.geeksforgeeks.org/problems/geek-onacci-number/0
