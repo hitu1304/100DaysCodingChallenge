@@ -666,4 +666,6 @@ Permutations of a given string-> https://practice.geeksforgeeks.org/problems/per
 
 Max distance between same elements-> https://practice.geeksforgeeks.org/problems/max-distance-between-same-elements/1
 
+Mean of range in array-> https://practice.geeksforgeeks.org/problems/mean-of-range-in-array2123/1
+
 Frequencies of Limited Range Array Elements-> https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1
