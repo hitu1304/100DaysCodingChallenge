@@ -658,3 +658,12 @@ Geek-onacci Number-> https://practice.geeksforgeeks.org/problems/geek-onacci-num
 #Day 68
 
 Combination Sum-> https://practice.geeksforgeeks.org/problems/combination-sum-1587115620/1
+
+#
+Day 69
+
+Permutations of a given string-> https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041
+
+Max distance between same elements-> https://practice.geeksforgeeks.org/problems/max-distance-between-same-elements/1
+
+Frequencies of Limited Range Array Elements-> https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1
