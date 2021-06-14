@@ -669,3 +669,5 @@ Max distance between same elements-> https://practice.geeksforgeeks.org/problems
 Mean of range in array-> https://practice.geeksforgeeks.org/problems/mean-of-range-in-array2123/1
 
 Frequencies of Limited Range Array Elements-> https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1
+
+Non-Repeating Element-> https://practice.geeksforgeeks.org/problems/non-repeating-element3958/1
