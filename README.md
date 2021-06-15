@@ -614,7 +614,7 @@ Print adjacency list-> https://practice.geeksforgeeks.org/problems/print-adjacen
 
 Detect cycle in an undirected graph-> https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
 
-Birthday Gifts-> https://www.codechef.com/LTIME96C/problems/TWINGFT
+Birthday Gifts->https://www.codechef.com/LTIME96C/problems/TWINGFT
 
 Tom And Jerry 1-> https://www.codechef.com/LTIME96C/problems/TANDJ1
 
