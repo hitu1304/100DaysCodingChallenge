@@ -616,7 +616,7 @@ Detect cycle in an undirected graph-> https://practice.geeksforgeeks.org/problem
 
 Birthday Gifts->https://www.codechef.com/LTIME96C/problems/TWINGFT
 
-Tom And Jerry 1-> https://www.codechef.com/LTIME96C/problems/TANDJ1
+Tom And Jerry 1->https://www.codechef.com/LTIME96C/problems/TANDJ1
 
 #
 #Day 62
