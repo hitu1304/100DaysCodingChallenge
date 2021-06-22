@@ -610,7 +610,7 @@ Cheating Time-> https://www.codechef.com/submit/CTIME
 #
 #Day 61
 
-Print adjacency list-> https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1
+Print adjacency list->https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1
 
 Detect cycle in an undirected graph-> https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
 
