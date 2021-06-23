@@ -671,3 +671,10 @@ Mean of range in array-> https://practice.geeksforgeeks.org/problems/mean-of-ran
 Frequencies of Limited Range Array Elements-> https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1
 
 Non-Repeating Element-> https://practice.geeksforgeeks.org/problems/non-repeating-element3958/1
+
+#
+#Day 70
+
+Subset Sum Problem-> https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
+
+Partition Equal Subset Sum-> https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1
