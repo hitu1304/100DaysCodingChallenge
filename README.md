@@ -687,3 +687,8 @@ Perfect Sum Problem-> https://practice.geeksforgeeks.org/problems/perfect-sum-pr
 #Day 72
 
 Longest Common Subsequence-> https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1
+
+#
+#Day 73
+
+Knapsack with Duplicate Items-> https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1
