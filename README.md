@@ -678,3 +678,12 @@ Non-Repeating Element-> https://practice.geeksforgeeks.org/problems/non-repeatin
 Subset Sum Problem-> https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
 
 Partition Equal Subset Sum-> https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1
+
+#Day 71
+
+Perfect Sum Problem-> https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1
+
+#
+#Day 72
+
+Longest Common Subsequence-> https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1
