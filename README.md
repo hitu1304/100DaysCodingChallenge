@@ -692,3 +692,10 @@ Longest Common Subsequence-> https://practice.geeksforgeeks.org/problems/longest
 #Day 73
 
 Knapsack with Duplicate Items-> https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1
+
+Max possible amount-> https://practice.geeksforgeeks.org/problems/max-possible-amount2717/1
+
+#
+#Day 74
+
+Stickler Thief-> https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1
