@@ -704,3 +704,16 @@ Stickler Thief-> https://practice.geeksforgeeks.org/problems/stickler-theif-1587
 #Day 75
 
 Minimum Cost To Make Two Strings Identical-> https://practice.geeksforgeeks.org/problems/minimum-cost-to-make-two-strings-identical1107/1
+
+#
+#Day 76
+
+Minimum number of deletions and insertions-> https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1
+
+Count ways to N'th Stair(Order does not matter)-> https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1
+
+
+#
+#Day 77
+
+Power Of Numbers-> https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1
