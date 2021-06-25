@@ -699,3 +699,8 @@ Max possible amount-> https://practice.geeksforgeeks.org/problems/max-possible-a
 #Day 74
 
 Stickler Thief-> https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1
+
+#
+#Day 75
+
+Minimum Cost To Make Two Strings Identical-> https://practice.geeksforgeeks.org/problems/minimum-cost-to-make-two-strings-identical1107/1
