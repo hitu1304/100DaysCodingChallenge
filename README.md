@@ -722,3 +722,12 @@ Power Of Numbers-> https://practice.geeksforgeeks.org/problems/power-of-numbers-
 #Day 78
 
 Edit Distance-> https://practice.geeksforgeeks.org/problems/edit-distance3702/1
+
+Player with max score-> https://practice.geeksforgeeks.org/problems/player-with-max-score/1
+
+#
+#Day 79
+
+Minimum Operations-> https://practice.geeksforgeeks.org/problems/find-optimum-operation4504/1
+
+Count ways to reach the n'th stair-> https://practice.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1
