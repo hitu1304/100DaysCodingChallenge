@@ -741,3 +741,10 @@ Form a palindrome-> https://practice.geeksforgeeks.org/problems/form-a-palindrom
 #Day 81
 
 Longest Common Substring-> https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1
+
+Wildcard Pattern Matching-> https://practice.geeksforgeeks.org/problems/wildcard-pattern-matching/1
+
+#
+#Day 82
+
+LCS of three strings -> https://practice.geeksforgeeks.org/problems/lcs-of-three-strings0028/1
