@@ -731,3 +731,13 @@ Player with max score-> https://practice.geeksforgeeks.org/problems/player-with-
 Minimum Operations-> https://practice.geeksforgeeks.org/problems/find-optimum-operation4504/1
 
 Count ways to reach the n'th stair-> https://practice.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1
+
+#
+#Day 80
+
+Form a palindrome-> https://practice.geeksforgeeks.org/problems/form-a-palindrome2544/1
+
+#
+#Day 81
+
+Longest Common Substring-> https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1
