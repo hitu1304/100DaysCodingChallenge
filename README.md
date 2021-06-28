@@ -748,3 +748,18 @@ Wildcard Pattern Matching-> https://practice.geeksforgeeks.org/problems/wildcard
 #Day 82
 
 LCS of three strings -> https://practice.geeksforgeeks.org/problems/lcs-of-three-strings0028/1
+
+#
+#Day 83
+
+Subarrays with equal 1s and 0s-> https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1
+
+Largest subarray with 0 sum-> https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1
+
+Largest subarray of 0's and 1's-> https://practice.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1
+
+#
+#Day 84
+
+Count distinct elements in every window-> https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1
+
