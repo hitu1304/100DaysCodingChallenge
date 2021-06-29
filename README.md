@@ -763,3 +763,7 @@ Largest subarray of 0's and 1's-> https://practice.geeksforgeeks.org/problems/la
 
 Count distinct elements in every window-> https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1
 
+#
+#Day 85
+
+Trapping Rain Water-> https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1
