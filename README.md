@@ -767,3 +767,12 @@ Count distinct elements in every window-> https://practice.geeksforgeeks.org/pro
 #Day 85
 
 Trapping Rain Water-> https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1
+
+Zero Sum Subarrays-> https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1
+
+#
+#Day 86
+
+Max Sum without Adjacents-> https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1
+
+Top k numbers in a stream-> https://practice.geeksforgeeks.org/problems/top-k-numbers3425/1
