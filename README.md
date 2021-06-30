@@ -776,3 +776,24 @@ Zero Sum Subarrays-> https://practice.geeksforgeeks.org/problems/zero-sum-subarr
 Max Sum without Adjacents-> https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1
 
 Top k numbers in a stream-> https://practice.geeksforgeeks.org/problems/top-k-numbers3425/1
+
+#
+#Day 87
+
+IPL2021-Match Day 2->https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1
+
+Print Binary Tree levels in sorted order-> https://practice.geeksforgeeks.org/problems/print-binary-tree-levels-in-sorted-order3241/1
+
+#
+#Day 88
+
+Coin Change-> https://practice.geeksforgeeks.org/problems/coin-change2448/1
+
+Activity Selection-> https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1
+
+#
+#Day 89
+
+Count number of hops-> https://practice.geeksforgeeks.org/problems/count-number-of-hops-1587115620/1
+
+K-Palindrome-> https://practice.geeksforgeeks.org/problems/k-palindrome/1
