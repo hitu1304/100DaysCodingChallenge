@@ -797,3 +797,19 @@ Activity Selection-> https://practice.geeksforgeeks.org/problems/activity-select
 Count number of hops-> https://practice.geeksforgeeks.org/problems/count-number-of-hops-1587115620/1
 
 K-Palindrome-> https://practice.geeksforgeeks.org/problems/k-palindrome/1
+
+#Day 90
+
+Number of Unique Paths-> https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1
+
+Longest consecutive subsequence-> https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1
+
+#
+#Day 91
+
+Shortest Common Supersequence-> https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1
+
+#
+#Day 92
+
+String Subsequence Game-> https://practice.geeksforgeeks.org/problems/string-subsequence-game5515/1
