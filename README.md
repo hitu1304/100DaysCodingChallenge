@@ -815,3 +815,10 @@ Shortest Common Supersequence-> https://practice.geeksforgeeks.org/problems/shor
 String Subsequence Game-> https://practice.geeksforgeeks.org/problems/string-subsequence-game5515/1
 
 Make Subsequence-> https://practice.geeksforgeeks.org/problems/make-subsequence/1
+
+#
+#Day 93
+
+Egg Dropping Puzzle-> https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1
+
+Number of distinct subsequences-> https://practice.geeksforgeeks.org/problems/number-of-distinct-subsequences0909/1
