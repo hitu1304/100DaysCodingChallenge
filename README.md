@@ -822,3 +822,15 @@ Make Subsequence-> https://practice.geeksforgeeks.org/problems/make-subsequence/
 Egg Dropping Puzzle-> https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1
 
 Number of distinct subsequences-> https://practice.geeksforgeeks.org/problems/number-of-distinct-subsequences0909/1
+
+#
+#Day 94
+
+Longest Increasing Subsequence-> https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1
+
+Minimum number of deletions to make a sorted sequence-> https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-to-make-a-sorted-sequence3248/1
+
+#
+#Day 95
+
+Minimum insertions to sort an array-> https://practice.geeksforgeeks.org/problems/minimum-insertions-to-sort-an-array0535/1
