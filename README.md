@@ -834,3 +834,17 @@ Minimum number of deletions to make a sorted sequence-> https://practice.geeksfo
 #Day 95
 
 Minimum insertions to sort an array-> https://practice.geeksforgeeks.org/problems/minimum-insertions-to-sort-an-array0535/1
+
+Max Sum Subarray of size K -> https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1
+
+#
+#Day 96
+
+Maximum of all subarrays of size k-> https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1
+
+Substrings of length k with k-1 distinct elements-> https://practice.geeksforgeeks.org/problems/substrings-of-length-k-with-k-1-distinct-elements/1
+
+#
+#Day 97
+
+First negative integer in every window of size k-> https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1
