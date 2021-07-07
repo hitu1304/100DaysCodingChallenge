@@ -848,3 +848,5 @@ Substrings of length k with k-1 distinct elements-> https://practice.geeksforgee
 #Day 97
 
 First negative integer in every window of size k-> https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1
+
+Subsets-> https://practice.geeksforgeeks.org/problems/subsets-1613027340/1
