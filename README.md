@@ -850,3 +850,8 @@ Substrings of length k with k-1 distinct elements-> https://practice.geeksforgee
 First negative integer in every window of size k-> https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1
 
 Subsets-> https://practice.geeksforgeeks.org/problems/subsets-1613027340/1
+
+#
+#Day-98
+
+Remove loop in Linked List->  https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1
