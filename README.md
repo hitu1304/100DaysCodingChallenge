@@ -855,3 +855,11 @@ Subsets-> https://practice.geeksforgeeks.org/problems/subsets-1613027340/1
 #Day-98
 
 Remove loop in Linked List->  https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1
+
+Absolute List Sorting->  https://practice.geeksforgeeks.org/problems/absolute-list-sorting/1
+
+#
+
+#Day 99
+
+Pairwise swap elements of a linked list-> https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1
